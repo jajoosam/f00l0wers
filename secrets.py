@@ -1,4 +1,4 @@
-consumer_key = 'ohKIOeTUnWHISJrnpqoXroFME'
-consumer_secret = '9TXVbDh5fvkooRGiQAMnEGOt8Kgl6qF8sAPX5Pd7EQFLtX0Ozq'
-access_token = '914345168261844992-RPPkJtyFR8IVIjLE6BT2QKWsNop13B2'
-access_secret = '4dPGDSkOb6xwCbszJRvyVCqBo6KQJcHKBjW4hY5HJd6Ax'
+consumer_key = "lala"
+consumer_secret = "lala"
+access_token = "lala"
+access_secret = "lala"
